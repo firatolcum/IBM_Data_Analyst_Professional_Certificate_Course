@@ -51,10 +51,10 @@ Learn how to analyze data using Python. Topics covered:
 
 1) Importing Datasets
 2) Cleaning the Data
-3) Data frame manipulation
+3) Dataframe Manipulation
 4) Summarizing the Data
-5) Building machine learning Regression models
-6) Building data pipelines
+5) Building Machine Learning Regression Models
+6) Building Data Pipelines
 
 
 - [x] [__Data Visualization with Python__](https://github.com/firatolcum/IBM_Data_Analyst_Professional_Certificate_Course/blob/master/07-Certificates/08-Data%20Visualization%20with%20Python.jpg)
